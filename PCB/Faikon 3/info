@@ -1,0 +1,383 @@
+{
+  "uuid": "bfefda107e8e93ecfaa30c4145c9fc42",
+  "path": "Offline/Faikon%203",
+  "name": "Faikon 3",
+  "content": "",
+  "created_at": "2023-07-03 15:36:27",
+  "updated_at": "2023-07-11 13:17:29",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "2ae9e94eee78494061a16d6c236b1ec3",
+      "title": "Main",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "29d09d536c694971a00d2386a4f83163": 1,
+        "4728ebe0326844de9abfcf64fac8731f": 1,
+        "0162c93b05c079a4f063ffb73f50c063": 1,
+        "a9523a910958deb83d76885154fddfae": 1,
+        "eed73d96f2a999d115ebc694d6de6b8b": 3,
+        "9cb0d930c0fa4755b3dd357361c253d6": 1,
+        "862ed08682fc416cb7c001ac41993795": 1,
+        "b210af5a1436310a86e8b108e2e5a90b": 1,
+        "b32ab53e190e4b16b77bb242d016c7d4": 2,
+        "dbdc426905904fe188ec485df0d8f0d5": 1,
+        "6e9cc79b3a4d46c693db484a617d2b21": 1,
+        "7a0c79967d0e7ae293044fb82790899a": 1,
+        "bdea432cad40be0e7998e026eafc1b06": 1,
+        "17e2cc1373f84d629085a605f73b0aa2": 1,
+        "c5201f5e8e5d4423a8f8ff4a1f98bfb3": 2,
+        "154b66255b01a09bf1c88bb1ea89be78": 1,
+        "b1d30d497d224ba09bec7e2c6ad65229": 2,
+        "24e57114b990501df1e9cf21ab962ebb": 1,
+        "394682c91ed04d12bc01a7a49d313a67": 1,
+        "c7d6ddb8c17a4c5e95b4bfec17afc8fd": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "100nF",
+          2,
+          "C0603",
+          "C1,C8",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C385971",
+            "BOM_Manufacturer": "TAIYO YUDEN(太诱)",
+            "BOM_Manufacturer Part": "HMK107B7104KA-T",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "f8151fdc728a41ebbc304e11d39e5437",
+            "uuid": "b32ab53e190e4b16b77bb242d016c7d4"
+          }
+        ],
+        [
+          "10uF",
+          1,
+          "C0805",
+          "C2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "CL21A106KAYNNNE",
+            "BOM_Manufacturer": "SAMSUNG(三星)",
+            "BOM_Supplier Part": "C15850",
+            "BOM_JLCPCB Part Class": "Basic Part",
+            "puuid": "2ee8eb13a0124a108e622ce40c0c25a8",
+            "uuid": "7a0c79967d0e7ae293044fb82790899a"
+          }
+        ],
+        [
+          "100nF",
+          1,
+          "C0805",
+          "C3",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "CL21B104KCFNNNE",
+            "BOM_Manufacturer": "SAMSUNG(三星)",
+            "BOM_Supplier Part": "C28233",
+            "BOM_JLCPCB Part Class": "Basic Part",
+            "puuid": "2ee8eb13a0124a108e622ce40c0c25a8",
+            "uuid": "bdea432cad40be0e7998e026eafc1b06"
+          }
+        ],
+        [
+          "100nF",
+          1,
+          "C0603",
+          "C4",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "YAGEO(国巨)",
+            "BOM_Manufacturer Part": "CC0603KRX7R9BB104",
+            "BOM_Supplier Part": "C14663",
+            "BOM_JLCPCB Part Class": "Basic Part",
+            "puuid": "f8151fdc728a41ebbc304e11d39e5437",
+            "uuid": "154b66255b01a09bf1c88bb1ea89be78"
+          }
+        ],
+        [
+          "22uF",
+          2,
+          "C0603",
+          "C5,C6",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "SAMSUNG(三星)",
+            "BOM_Manufacturer Part": "CL10A226MQ8NRNC",
+            "BOM_Supplier Part": "C59461",
+            "BOM_JLCPCB Part Class": "Basic Part",
+            "puuid": "f8151fdc728a41ebbc304e11d39e5437",
+            "uuid": "b1d30d497d224ba09bec7e2c6ad65229"
+          }
+        ],
+        [
+          "75pF",
+          1,
+          "C0805",
+          "C7",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "FH(风华)",
+            "BOM_Manufacturer Part": "0805CG750J500NT",
+            "BOM_Supplier Part": "C1838",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "2ee8eb13a0124a108e622ce40c0c25a8",
+            "uuid": "24e57114b990501df1e9cf21ab962ebb"
+          }
+        ],
+        [
+          "A2502WR-5P",
+          1,
+          "CONN-TH_A2502WR-5P",
+          "CN1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C225427",
+            "BOM_Manufacturer": "Changjiang Connectors",
+            "BOM_Manufacturer Part": "A2502WR-5P",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "0b141665577444dbb65560cab674564d",
+            "uuid": "29d09d536c694971a00d2386a4f83163"
+          }
+        ],
+        [
+          "WEMOS-D1-MINI-ESP32",
+          1,
+          "WEMOS-D1-MINI-ESP32",
+          "IC1",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "6ccabb5f8e3f4ea0a7584da3a8d3faf9",
+            "uuid": "9cb0d930c0fa4755b3dd357361c253d6"
+          }
+        ],
+        [
+          "15uH",
+          1,
+          "IND-SMD_L6.0-W6.0",
+          "L1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C2849538",
+            "BOM_Manufacturer": "DMBJ(振宝佳)",
+            "BOM_Manufacturer Part": "PNLS6045-150",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "081987c20f3844668e2fec74b142996f",
+            "uuid": "6e9cc79b3a4d46c693db484a617d2b21"
+          }
+        ],
+        [
+          "MHS190RGBCT",
+          1,
+          "LED-SMD_4P-L1.6-W0.6_MHS190RGBCT",
+          "LED1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C409798",
+            "BOM_Manufacturer": "MEIHUA(美华)",
+            "BOM_Manufacturer Part": "MHS190RGBCT",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "89aa7fd07b1047eda58c203a39f7cc3a",
+            "uuid": "4728ebe0326844de9abfcf64fac8731f"
+          }
+        ],
+        [
+          "100Ω",
+          3,
+          "R0402",
+          "R1,R8,R9",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "UNI-ROYAL(厚声)",
+            "BOM_Manufacturer Part": "0402WGF1000TCE",
+            "BOM_Supplier Part": "C25076",
+            "BOM_JLCPCB Part Class": "Basic Part",
+            "puuid": "fafd024f554e426eb74cf4a204aa88b0",
+            "uuid": "eed73d96f2a999d115ebc694d6de6b8b"
+          }
+        ],
+        [
+          "300Ω",
+          1,
+          "R0402",
+          "R2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "UNI-ROYAL(厚声)",
+            "BOM_Manufacturer Part": "0402WGF3000TCE",
+            "BOM_Supplier Part": "C25102",
+            "BOM_JLCPCB Part Class": "Basic Part",
+            "puuid": "fafd024f554e426eb74cf4a204aa88b0",
+            "uuid": "a9523a910958deb83d76885154fddfae"
+          }
+        ],
+        [
+          "1kΩ",
+          1,
+          "R0402",
+          "R3",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "UNI-ROYAL(厚声)",
+            "BOM_Manufacturer Part": "0402WGF1001TCE",
+            "BOM_Supplier Part": "C11702",
+            "BOM_JLCPCB Part Class": "Basic Part",
+            "puuid": "fafd024f554e426eb74cf4a204aa88b0",
+            "uuid": "0162c93b05c079a4f063ffb73f50c063"
+          }
+        ],
+        [
+          "511K",
+          1,
+          "R0402",
+          "R4",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "YAGEO(国巨)",
+            "BOM_Manufacturer Part": "AC0402FR-07511KL",
+            "BOM_Supplier Part": "C144750",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "fafd024f554e426eb74cf4a204aa88b0",
+            "uuid": "17e2cc1373f84d629085a605f73b0aa2"
+          }
+        ],
+        [
+          "100kΩ",
+          2,
+          "R0402",
+          "R5,R10",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C478863",
+            "BOM_Manufacturer": "RESI(开步睿思）",
+            "BOM_Manufacturer Part": "PTFR0402B100KP9",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "fafd024f554e426eb74cf4a204aa88b0",
+            "uuid": "c5201f5e8e5d4423a8f8ff4a1f98bfb3"
+          }
+        ],
+        [
+          "49.9Ω",
+          1,
+          "R0402",
+          "R6",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C325388",
+            "BOM_Manufacturer": "Tyohm(幸亚电阻)",
+            "BOM_Manufacturer Part": "RMC040249.91%N",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "fafd024f554e426eb74cf4a204aa88b0",
+            "uuid": "394682c91ed04d12bc01a7a49d313a67"
+          }
+        ],
+        [
+          "10kΩ",
+          1,
+          "R0603",
+          "R7",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "UNI-ROYAL(厚声)",
+            "BOM_Manufacturer Part": "0603WAF1002T5E",
+            "BOM_Supplier Part": "C25804",
+            "BOM_JLCPCB Part Class": "Basic Part",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "b210af5a1436310a86e8b108e2e5a90b"
+          }
+        ],
+        [
+          "13.3kΩ",
+          1,
+          "R0603",
+          "R11",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C2758733",
+            "BOM_Manufacturer": "UNI-ROYAL(厚声)",
+            "BOM_Manufacturer Part": "NQ03WAF1332T5E",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "c7d6ddb8c17a4c5e95b4bfec17afc8fd"
+          }
+        ],
+        [
+          "TXS0102DCUR",
+          1,
+          "VSON8_L2.0-W2.3-P0.50-LS3.1-BL",
+          "U1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "TI(德州仪器)",
+            "BOM_Manufacturer Part": "TXS0102DCUR",
+            "BOM_Supplier Part": "C53434",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "9b4677b8c04c4cffbd294ab9025d338f",
+            "uuid": "862ed08682fc416cb7c001ac41993795"
+          }
+        ],
+        [
+          "TPS54202DDCR",
+          1,
+          "SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BL",
+          "U2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C191884",
+            "BOM_Manufacturer": "TI(德州仪器)",
+            "BOM_Manufacturer Part": "TPS54202DDCR",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "9a066f903e65476fa74739d5e9b0ceb9",
+            "uuid": "dbdc426905904fe188ec485df0d8f0d5"
+          }
+        ]
+      ],
+      "updateTime": 1689095176,
+      "createTime": 1688329268,
+      "histories": [],
+      "created_at": "2023-07-02 16:21:08",
+      "updated_at": "2023-07-11 13:06:16"
+    },
+    {
+      "uuid": "ba5ed6a6a2092f7dffe0b01c5ee7f206",
+      "title": "PCB_Faikon_3",
+      "filename": "PCB_Faikon_3.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "f8151fdc728a41ebbc304e11d39e5437": 5,
+        "6ccabb5f8e3f4ea0a7584da3a8d3faf9": 1,
+        "0b141665577444dbb65560cab674564d": 1,
+        "2ee8eb13a0124a108e622ce40c0c25a8": 3,
+        "081987c20f3844668e2fec74b142996f": 1,
+        "fafd024f554e426eb74cf4a204aa88b0": 9,
+        "398691f1f785460098bbe5ee6590333c": 2,
+        "9a066f903e65476fa74739d5e9b0ceb9": 1,
+        "9b4677b8c04c4cffbd294ab9025d338f": 1,
+        "89aa7fd07b1047eda58c203a39f7cc3a": 1
+      },
+      "BOM": [],
+      "updateTime": 1689095849,
+      "createTime": 1688334925,
+      "histories": [],
+      "created_at": "2023-07-02 17:55:25",
+      "updated_at": "2023-07-11 13:17:29"
+    }
+  ],
+  "sort": [],
+  "title": "Faikon 3",
+  "foldername": "Faikon 3",
+  "schfilename": "Faikon 3.json",
+  "schfilemtime": 1689095176819
+}
