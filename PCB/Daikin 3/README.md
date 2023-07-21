@@ -4,7 +4,7 @@ Board designed in EasyEDA for jlcpcb.com production. Jlcpcb production cost abou
 
 
 Advantages vs original design:
- - True level shifter for RX/TX with onboard 5v converted. Original design v1 level shift just RX pin but v2 design required 5v on pin 5 that some units does not have.
+ - True level shifter for RX/TX with onboard 5v converter. Original design v1 level shift just RX pin but v2 design required 5v on pin 5 that some units does not have.
  - Do not invert RX pin that simplify config in esphome
  - 2x Cheaper to order because of economic vs standard PCB assembly
 
